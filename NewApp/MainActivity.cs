@@ -11,6 +11,8 @@ namespace NewApp
         {
             base.OnCreate(bundle);
 
+
+            int x = 0;
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
