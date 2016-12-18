@@ -15,6 +15,8 @@ namespace NewApp
             int x = 0;
 
             int edit2 = 0;
+
+            int branch1Edit = 2;
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
